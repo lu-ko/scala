@@ -1,2 +1,3 @@
-# scala
-All Scala-related projects, tutorials, assessments, etc.
+# Scala - common or basic projects:
+
+* HelloWorld
