@@ -13,12 +13,12 @@ To familiarize yourself with the Scala IDE, create a small “Hello World” project
 4. Enter "Hello" as the name for the object and put "first" as the package name above  
 
 5. Change the source code to the one given below:
-  * ```scala
-package first
-object Hello extends App {
-  println("Hello, World!")
-}
-```
+  ```scala
+  package first
+  object Hello extends App {
+    println("Hello, World!")
+  }
+  ```
 
 6. Save the file and select “Run” - “Run” from the menu. Chose to run as “Scala Application”  
 
