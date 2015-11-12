@@ -1,3 +1,3 @@
 # Scala - common or basic projects:
 
-* HelloWorld
+* [HelloWorld](https://github.com/lu-ko/scala-common/tree/master/HelloWorld)

@@ -1,4 +1,6 @@
-# HelloWorld - Scala IDE and the Scala Worksheet
+# HelloWorld
+
+## Scala IDE
 
 To familiarize yourself with the Scala IDE, create a small “Hello World” project in Eclipse IDE:
 
@@ -11,8 +13,7 @@ To familiarize yourself with the Scala IDE, create a small “Hello World” project
 4. Enter "Hello" as the name for the object and put "first" as the package name above  
 
 5. Change the source code to the one given below:
-
-```scala
+  * ```scala
 package first
 object Hello extends App {
   println("Hello, World!")
@@ -25,7 +26,8 @@ object Hello extends App {
 
 
 ---------------------------------------------------------
-Creating a Scala Worksheet
+
+## Creating a Scala Worksheet
 
 Creating a Scala Worksheet is very easy:
 
